@@ -17,8 +17,8 @@ var findSubstring = function(s, words) {
         index = i;
         
         while(remainLength){
-            subStirng = s.slice(index, index + wordLength);
-            wordIndex = remainWords.indexOf(subStirng);
+            subString = s.slice(index, index + wordLength);
+            wordIndex = remainWords.indexOf(subString);
 
             if(wordIndex !== -1){
                 remainWords.splice(wordIndex, 1);
