@@ -8,6 +8,7 @@
 - [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 - [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 - [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+- [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 ### swexpert
 - [트리 흑백 색칠](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWO6esOKOKQDFAWw)
