@@ -11,6 +11,7 @@
 - [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
 - [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+- [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
 
 ### swexpert
 - [트리 흑백 색칠](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWO6esOKOKQDFAWw)
