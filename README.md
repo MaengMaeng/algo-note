@@ -15,6 +15,7 @@
 - [1044. Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)
 - [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)
 - [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+- [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
 
 ### swexpert
