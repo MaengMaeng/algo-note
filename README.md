@@ -19,6 +19,7 @@
 - [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 - [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 - [135. Candy](https://leetcode.com/problems/candy/)
+- [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
 
 
 ### swexpert
