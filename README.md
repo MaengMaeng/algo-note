@@ -20,7 +20,8 @@
 - [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 - [135. Candy](https://leetcode.com/problems/candy/)
 - [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
-
+- [679. 24 Game](https://leetcode.com/problems/24-game/)
+- [322. Coin Change](https://leetcode.com/problems/coin-change/)
 
 ### swexpert
 - [트리 흑백 색칠](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWO6esOKOKQDFAWw)
