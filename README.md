@@ -22,6 +22,8 @@
 - [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
 - [679. 24 Game](https://leetcode.com/problems/24-game/)
 - [322. Coin Change](https://leetcode.com/problems/coin-change/)
+- [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
+
 
 ### swexpert
 - [트리 흑백 색칠](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWO6esOKOKQDFAWw)
