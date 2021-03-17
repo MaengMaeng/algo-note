@@ -24,6 +24,7 @@
 - [322. Coin Change](https://leetcode.com/problems/coin-change/)
 - [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
 - [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+- [120. Triangle](https://leetcode.com/problems/triangle/)
 
 
 ### swexpert
