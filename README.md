@@ -25,6 +25,7 @@
 - [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
 - [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
 - [120. Triangle](https://leetcode.com/problems/triangle/)
+- [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 
 
 ### swexpert
