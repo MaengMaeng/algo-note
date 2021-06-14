@@ -34,5 +34,3 @@ var isMatch = function(s, p) {
 
   return dp[sLength - 1][pLength - 1];
 };
-
-console.log(isMatch("ho", "**ho"));
