@@ -17,7 +17,7 @@ var pathSum = function(root, targetSum) {
   const dfsSum = (node, value) => {
     if(node == null) return;
 
-    let sum = value + node.value;
+    let sum = value + node.val;
     if(sum == targetSum) answer++;
 
     dfsSum(node.left, sum);
