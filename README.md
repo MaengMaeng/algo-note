@@ -50,3 +50,46 @@ ex) n = 20000
 new Array(n) => 3282
 [] => 5320
 Array.from({length:n}, () => 0) => 23213
+
+
+
+---
+
+### DFS
+
+```js
+# preorder
+
+const dfs = (node) => {
+	if(!null) return;
+	
+	console.log(node.val);
+	dfs(node.left);
+	dfs(node.right);
+}
+```
+
+```js
+# inorder
+
+const dfs = (node) => {
+	if(!null) return;
+	
+	dfs(node.left);
+    console.log(node.val);
+	dfs(node.right);
+}
+```
+
+```js
+# inorder
+
+const dfs = (node) => {
+	if(!null) return;
+	
+	dfs(node.left);
+	dfs(node.right);
+    console.log(node.val);
+}
+```
+
