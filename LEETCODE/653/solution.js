@@ -31,4 +31,6 @@ var findTarget = function(root, k) {
     else if(numbers[left] + numbers[right] > k) right--;
     else left++;
   }
+
+  return false;
 };
