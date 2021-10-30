@@ -20,11 +20,13 @@ var reorganizeString = function(s) {
   }
 
   let answer = "";
+  let finished = false;
 
   const dfs = (current, str, chars) => {
-    if(answer.length > 0) return;
+    if(finished) return;
 
     if(str.length == s.length){
+      finished = true;
       answer = str;
       return;
     }
@@ -34,7 +36,7 @@ var reorganizeString = function(s) {
 
     for(let i = 0; i < chars.length; i++){
       // 다른 문자면
-      if(answer.length == 0 && current != chars[i][0]){
+      if(!finished && current != chars[i][0]){
         chars[i][1]--;
         dfs(chars[i][0], str + chars[i][0], chars);
         chars[i][1]++;
