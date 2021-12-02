@@ -23,7 +23,7 @@ var oddEvenList = function (head) {
   let lastIndex = length % 2 == 0 ? length - 1 : length - 2;
   let index = 1;
 
-  let perv = head;
+  let prev = head;
   let node = head.next;
 
   while(index <= lastIndex){
@@ -32,7 +32,7 @@ var oddEvenList = function (head) {
     if(index % 2 == 0){
       tail.next = node;
       
-      perv.next = node.next;
+      prev.next = node.next;
       node.next = null;
       
       tail = tail.next;
