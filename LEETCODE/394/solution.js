@@ -14,11 +14,11 @@ var decodeString = function (s) {
     }
     
     // 알파벳 일 경우
-    if(alpha.test(s[i])){
+    else if(alpha.test(s[i])){
       str[index] += s[i];
     }
 
-    if(s[i] == "["){
+    else if(s[i] == "["){
       stack.push(num);
       str.push("");
       index++;
@@ -26,7 +26,7 @@ var decodeString = function (s) {
       num = '';
     }
 
-    if(s[i] == "]"){
+    else if(s[i] == "]"){
       str[index - 1] += str.pop().repeat(stack.pop());
       index--;
     }
